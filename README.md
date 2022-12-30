@@ -675,7 +675,7 @@ This table divides the 12 points into three columns to make it easier to read.
 | 656   | faint    | ○ ○ ● ○ | ● ○ ○ ● | ○ ○ ○ ○ |
 | 657   | faith    | ○ ○ ● ○ | ● ○ ○ ● | ○ ○ ○ ● |
 | 658   | fall     | ○ ○ ● ○ | ● ○ ○ ● | ○ ○ ● ○ |
-| 659   | FALSE    | ○ ○ ● ○ | ● ○ ○ ● | ○ ○ ● ● |
+| 659   | false    | ○ ○ ● ○ | ● ○ ○ ● | ○ ○ ● ● |
 | 660   | fame     | ○ ○ ● ○ | ● ○ ○ ● | ○ ● ○ ○ |
 | 661   | family   | ○ ○ ● ○ | ● ○ ○ ● | ○ ● ○ ● |
 | 662   | famous   | ○ ○ ● ○ | ● ○ ○ ● | ○ ● ● ○ |
@@ -1883,7 +1883,7 @@ This table divides the 12 points into three columns to make it easier to read.
 | 1864  | trophy   | ○ ● ● ● | ○ ● ○ ○ | ● ○ ○ ○ |
 | 1865  | trouble  | ○ ● ● ● | ○ ● ○ ○ | ● ○ ○ ● |
 | 1866  | truck    | ○ ● ● ● | ○ ● ○ ○ | ● ○ ● ○ |
-| 1867  | TRUE     | ○ ● ● ● | ○ ● ○ ○ | ● ○ ● ● |
+| 1867  | true     | ○ ● ● ● | ○ ● ○ ○ | ● ○ ● ● |
 | 1868  | truly    | ○ ● ● ● | ○ ● ○ ○ | ● ● ○ ○ |
 | 1869  | trumpet  | ○ ● ● ● | ○ ● ○ ○ | ● ● ○ ● |
 | 1870  | trust    | ○ ● ● ● | ○ ● ○ ○ | ● ● ● ○ |
